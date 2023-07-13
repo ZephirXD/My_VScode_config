@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "Dracula Soft",
+    "workbench.startupEditor": "none",
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "editor.fontSize": 21,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.renderControlCharacters": false,
+    "workbench.activityBar.visible": false,
+    "editor.lineHeight": 30,
+    "security.workspace.trust.enabled": false,
+    "editor.linkedEditing": true
+}
+extensions:
+CSS peek
+theme:dracule
+Gist
+HTML to CSS autocompletion
+IntelliSense for CSS class names in HTML
+Live server
+Mithril Emmet
